@@ -8,6 +8,16 @@ All the material is contained in a unique jupyter notebook that you run with:
 jupyter notebook Results.ipynb
 ```
 
+Dependencies are:
+*    python 2.7.9 
+*    torch 1.1.0
+*    sklearn 0.19.2
+*    numpy 1.14.3
+*    pandas 0.23.0
+*    matplotlib 2.2.2
+*    scipy 1.0.0
+*    jupyter
+
 ## Get the CUB dataset
 To visualize the images, you need to download the [CUB 200 2011 dataset](http://www.vision.caltech.edu/visipedia-data/CUB-200-2011/CUB_200_2011.tgz). The corresponding [project page](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html) gives the reference to cite if you use it in your work.
 
