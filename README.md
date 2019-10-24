@@ -1,6 +1,6 @@
 # Modeling Inter and Intra-Class Relations in the Triplet Loss for Zero-Shot Learning
 
-This code allows to reprodure the results published in the [ICCV'19 article]().
+This code allows to reprodure the results published in the [ICCV'19 article](http://openaccess.thecvf.com/content_ICCV_2019/papers/Le_Cacheux_Modeling_Inter_and_Intra-Class_Relations_in_the_Triplet_Loss_for_ICCV_2019_paper.pdf) and its [supplementary material](http://openaccess.thecvf.com/content_ICCV_2019/supplemental/Le_Cacheux_Modeling_Inter_and_ICCV_2019_supplemental.pdf).
 
 All the material is contained in a unique jupyter notebook that you run with:
 
@@ -36,9 +36,10 @@ Y. Le Cacheux, H. Le Borgne and M. Crucianu. Modeling Inter and Intra-Class Rela
 @inproceedings{lecacheux2019zsl,
      title  = {Modeling Inter and Intra-Class Relations in the Triplet Loss for Zero-Shot Learning},
      author = {Le Cacheux, Yannick and Le Borgne, Herv{\'e} and Crucianu, Michel},
-  booktitle = {Proceedings of the IEEE International Conference on Computer Vision},
-      pages = {},
+  booktitle = {the IEEE International Conference on Computer Vision (ICCV)},
+      month = {October},
      series = {ICCV},
        year = {2019}
  }
+
 ```
